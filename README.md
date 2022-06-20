@@ -73,6 +73,9 @@ For later updates, the above procedure is not necessary. Just do the following:
 ### 0.0.1
 * (jan weltmeyer) initial release
 
+### 0.0.2
+* (acdelta) Fixed warnings with type "text" of variables air, quiet anf fanSpeed, changed to string.
+
 ## License
 MIT License
 
