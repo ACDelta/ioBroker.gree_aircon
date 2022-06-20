@@ -1,12 +1,12 @@
 {
   "name": "iobroker.gree_aircon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "gree air description",
   "author": {
-    "name": "jan weltmeyer",
-    "email": "jan@weltmeyer.net"
+    "name": "acdelta",
+    "email": ""
   },
-  "homepage": "https://github.com/weltmeyer/ioBroker.gree_aircon",
+  "homepage": "https://github.com/ACDelta/ioBroker.gree_aircon",
   "license": "MIT",
   "keywords": [
     "gree",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/weltmeyer/ioBroker.gree_aircon"
+    "url": "https://github.com/ACDelta/ioBroker.gree_aircon"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^1.0.3",
